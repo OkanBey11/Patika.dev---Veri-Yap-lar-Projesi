@@ -104,14 +104,15 @@
 <p><b>10.)</b> 2 düğümü, 5'ten küçük olduğu için sol alt ağacın sağ altına ekleyin.</p>
 <p><b>Bu şekilde, verilen dizinin Binary-Search-Tree'deki aşamaları Aşağıdaki şekildedir.</b></p>
 
-			          7
-					 / \
+                      7
+		         / \
                     5   8
                    / \   \
                   1   3   9
                  / \     
 	            0   4	
-				   /
+		       /
                   2
+		      
 <br>----------------------------
 <p><b>Bu Proje Patika.dev # Başlangıç Seviyesi .Net Core Patikası Eğitim için yaptığım # Veri Yapıları ve Algoritmalar Projesi için yapılmıştır </b></p>
